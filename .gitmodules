@@ -1,0 +1,3 @@
+[submodule "ts-proj"]
+	path = ts-proj
+	url = https://github.com/stchysh/ts-proj.git
