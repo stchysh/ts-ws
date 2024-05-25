@@ -1,0 +1,12 @@
+{
+  "name": "ts-ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stchysh/ts-ws.git",
+  "author": "yanschen <188163164@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces" : [
+    "ts-proj"
+  ]
+}
