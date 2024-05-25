@@ -16,3 +16,9 @@ after you clone this git, enter the folder and type command
   yarn install
 ```
 
+try to use ts-proj, enter the ts-proj folder and type following command
+```
+  yarn start
+  node dist\main.js
+```
+
